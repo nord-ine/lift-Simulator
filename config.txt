@@ -1,0 +1,4 @@
+nbFloors : 6
+nblifts : 4
+capacity : 10
+velocity : 5
